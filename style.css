@@ -20,8 +20,8 @@
 .card{
     width:30%;
     border-radius: 20px;
-    -moz-box-shadow: -3px -3px 21px 11px rgb(1, 23, 221);
-    box-shadow: -3px -3px 21px 11px rgba(41, 57, 203, 0.893);
+    -moz-box-shadow: -3px -3px 21px 11px rgba(14, 33, 203, 0.989);
+    box-shadow: -3px -3px 21px 11px rgba(16, 37, 223, 0.689);
     height: 500px;
     padding: 10px;
     display: flex;
